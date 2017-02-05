@@ -1,0 +1,14 @@
+{
+  "name": "vuejs",
+  "dependencies": {
+    "vue-cli": "2.8.1"
+  },
+  "version": "1.0.0",
+  "description": "Sample vue js project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Bhalla",
+  "license": "ISC"
+}
